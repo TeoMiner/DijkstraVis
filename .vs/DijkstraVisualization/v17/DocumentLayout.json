@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Hoc\\DijkstraVisualization\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44EC98CA-6592-4B2D-A661-13DE1108D35E}|DijkstraVisualization\\DijkstraVisualization.csproj|D:\\Hoc\\DijkstraVisualization\\dijkstravisualization\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44EC98CA-6592-4B2D-A661-13DE1108D35E}|DijkstraVisualization\\DijkstraVisualization.csproj|solutionrelative:dijkstravisualization\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44EC98CA-6592-4B2D-A661-13DE1108D35E}|DijkstraVisualization\\DijkstraVisualization.csproj|D:\\Hoc\\DijkstraVisualization\\dijkstravisualization\\vedothi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44EC98CA-6592-4B2D-A661-13DE1108D35E}|DijkstraVisualization\\DijkstraVisualization.csproj|solutionrelative:dijkstravisualization\\vedothi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44EC98CA-6592-4B2D-A661-13DE1108D35E}|DijkstraVisualization\\DijkstraVisualization.csproj|D:\\Hoc\\DijkstraVisualization\\dijkstravisualization\\dinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44EC98CA-6592-4B2D-A661-13DE1108D35E}|DijkstraVisualization\\DijkstraVisualization.csproj|solutionrelative:dijkstravisualization\\dinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44EC98CA-6592-4B2D-A661-13DE1108D35E}|DijkstraVisualization\\DijkstraVisualization.csproj|d:\\hoc\\dijkstravisualization\\dijkstravisualization\\canh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44EC98CA-6592-4B2D-A661-13DE1108D35E}|DijkstraVisualization\\DijkstraVisualization.csproj|solutionrelative:dijkstravisualization\\canh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44EC98CA-6592-4B2D-A661-13DE1108D35E}|DijkstraVisualization\\DijkstraVisualization.csproj|D:\\Hoc\\DijkstraVisualization\\dijkstravisualization\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{44EC98CA-6592-4B2D-A661-13DE1108D35E}|DijkstraVisualization\\DijkstraVisualization.csproj|solutionrelative:dijkstravisualization\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44EC98CA-6592-4B2D-A661-13DE1108D35E}|DijkstraVisualization\\DijkstraVisualization.csproj|d:\\hoc\\dijkstravisualization\\dijkstravisualization\\dijkstra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44EC98CA-6592-4B2D-A661-13DE1108D35E}|DijkstraVisualization\\DijkstraVisualization.csproj|solutionrelative:dijkstravisualization\\dijkstra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Hoc\\DijkstraVisualization\\DijkstraVisualization\\Form1.cs",
+              "RelativeDocumentMoniker": "DijkstraVisualization\\Form1.cs",
+              "ToolTip": "D:\\Hoc\\DijkstraVisualization\\DijkstraVisualization\\Form1.cs",
+              "RelativeToolTip": "DijkstraVisualization\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T13:36:22.165Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Canh.cs",
+              "DocumentMoniker": "D:\\Hoc\\DijkstraVisualization\\DijkstraVisualization\\Canh.cs",
+              "RelativeDocumentMoniker": "DijkstraVisualization\\Canh.cs",
+              "ToolTip": "D:\\Hoc\\DijkstraVisualization\\DijkstraVisualization\\Canh.cs",
+              "RelativeToolTip": "DijkstraVisualization\\Canh.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T14:35:52.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dijkstra.cs",
+              "DocumentMoniker": "D:\\Hoc\\DijkstraVisualization\\DijkstraVisualization\\Dijkstra.cs",
+              "RelativeDocumentMoniker": "DijkstraVisualization\\Dijkstra.cs",
+              "ToolTip": "D:\\Hoc\\DijkstraVisualization\\DijkstraVisualization\\Dijkstra.cs",
+              "RelativeToolTip": "DijkstraVisualization\\Dijkstra.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAqwEMAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T09:50:38.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dinh.cs",
+              "DocumentMoniker": "D:\\Hoc\\DijkstraVisualization\\DijkstraVisualization\\Dinh.cs",
+              "RelativeDocumentMoniker": "DijkstraVisualization\\Dinh.cs",
+              "ToolTip": "D:\\Hoc\\DijkstraVisualization\\DijkstraVisualization\\Dinh.cs",
+              "RelativeToolTip": "DijkstraVisualization\\Dinh.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T14:49:01.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VeDoThi.cs",
+              "DocumentMoniker": "D:\\Hoc\\DijkstraVisualization\\DijkstraVisualization\\VeDoThi.cs",
+              "RelativeDocumentMoniker": "DijkstraVisualization\\VeDoThi.cs",
+              "ToolTip": "D:\\Hoc\\DijkstraVisualization\\DijkstraVisualization\\VeDoThi.cs",
+              "RelativeToolTip": "DijkstraVisualization\\VeDoThi.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAcwC4AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T07:54:29.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Hoc\\DijkstraVisualization\\DijkstraVisualization\\Form1.cs",
+              "RelativeDocumentMoniker": "DijkstraVisualization\\Form1.cs",
+              "ToolTip": "D:\\Hoc\\DijkstraVisualization\\DijkstraVisualization\\Form1.cs [Design]",
+              "RelativeToolTip": "DijkstraVisualization\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T13:04:01.344Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
